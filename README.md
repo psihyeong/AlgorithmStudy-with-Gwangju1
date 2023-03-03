@@ -1,10 +1,7 @@
-# Algorithm_Study
-광주 1반 알고리즘 재활
-
 
 ---
-# 💯 알고리즘 및 코딩 테스트 문제 풀이 스터디 📝
-`누구나` 참여 가능한 알고리즘 및 코테 문제 풀이 스터디입니다.
+# 💯 알고리즘 및 코딩 테스트 문제 풀이 재활 스터디 📝
+`광주 1반 누구나` 참여 가능한 알고리즘 및 코테 문제 풀이 스터디입니다.
 
 참여 방법 설명글: <https://waytocse.tistory.com/59>
 <br />
@@ -15,16 +12,15 @@
 2. 생성된 원격 저장소에 `이름` 혹은 `github ID`로 폴더를 생성한다.
 3. 생성된 폴더에 자신의 소스코드를 업로드 한다. (폴더명에 콜론":" 안됩니다!)
 4. 이때 `commit 규칙`을 지키도록한다!
-5. 원본 저장소로 `Pull Request`를 한다. (매주 3문제 이상, 매주 **토요일**에 Merge예정)
+5. 원본 저장소로 `Pull Request`를 한다. (매주 3문제 이상, 매주 **월요일**에 Merge예정)
 6. 다른 사람들의 PR을 보고 자유롭게 코드리뷰를 한다.
 7. ***주의!! 기존 폴더를 지우면 안됩니다!!*** 개인 폴더 내부만 수정해주세요 :)
-8. 오픈톡방 <https://open.kakao.com/o/gI9Vfmxd> 들어오시면 매주 토요일 PR알림 + 모르는거 물어보세요 
 
 <br />
 <br />
 
 ## ✅ 소스코드 파일 이름 규칙
-- 자유롭게 작성 
+- 자유롭게 작성
 - 폴더명 또는 소스코드 파일명에 콜론 ":" 안됩니다 :D
 
 <br />
@@ -74,16 +70,28 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 
 <br />
 
+### :pushpin: 깃헙 참고 자료
+***
+  * [깃헙 Pull Request 보내는 방법](https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-%EA%B9%83%ED%97%99-PRPull-Request-%EB%B3%B4%EB%82%B4%EB%8A%94-%EB%B0%A9%EB%B2%95-folk-issue#%EC%BD%94%EB%93%9C_%EA%B8%B0%EC%97%AC_%EC%9B%90%EB%A6%AC_(Fork_%EC%99%80_Pull_Request_(PR)))
+  * [git pull request 정리](https://dkmqflx.github.io/development/2021/04/17/git-pr/)
+  * [[Git] Fork repository 최신화하기](https://sukvvon.tistory.com/78)
+  
+<br />
+<br />
+
 ## 🏷 03~06월 스터디 계획
 - 매주 공통으로 푸는 문제 1개 선정
-  - 해당 문제는 스터디 날에 리뷰
-- 각자 부족한 분야의 문제 풀이
+- 각자 부족한 분야의 문제 풀이 (주 최소 2문제)
   - 해당 문제는 스터디 날에 결과 보고 및 도움 받기
 
 #### 프로그래머스 lv.2(실전위주)[https://school.programmers.co.kr/learn/challenges?order=recent&page=1&levels=2]
 #### 참고 문제집 : [IT기업 및 대기업 계열사 코테보면서 비슷했던 문제들(지속적으로 업데이트 중)](https://www.acmicpc.net/workbook/view/8708)
 
+<br />
+<br />
 ## 💡 03월 스터디 진행도
+
+<br />
 
 #### 👩‍👦‍👦 참가자 및 공통문제 문제풀이 성공 여부
 | 주차     | 박시형                                        | 조승현 | 정민지  | 최지우  | 조성욱  |--비고|
@@ -94,6 +102,7 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 | 3주차(23.02.18) |                                            | O(X) | O(O)           | X(O)                                   | O(X) |-|
 | 4주차(23.02.25) |||||||
 
+<br />
 #### ✒ 공통 풀이 문제
 |주차|사이트|문제|비고|
 |:---:|---|---|---|
