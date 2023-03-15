@@ -107,4 +107,4 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 |주차|사이트|문제|비고|
 |:---:|---|---|---|
 |1주차(23.03.06 - 23.03.12)|BOJ<br/>PGS|[2304번 창고 다각형](https://www.acmicpc.net/problem/2304)<br/>[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)||
-|
+|2주차(23.03.13 - 23.03.10)|PGS|[호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)||
