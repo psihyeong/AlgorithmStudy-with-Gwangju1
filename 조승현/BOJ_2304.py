@@ -16,6 +16,7 @@ for i in range(N):
         val_idx = arr[i][0]
 
 val, val_idx = arr[-1][1], arr[-1][0]
+
 for i in range(N-1, -1, -1):
     if arr[i][0] == max_idx:
         sumV += (val_idx - max_idx) * val
