@@ -100,6 +100,7 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 |        | [@psihyeong](https://github.com/psihyeong) |  |  |  |  |      |
 | 1주차(23.03.06) |     -  |-  |  -  | -|- |-|
 | 2주차(23.03.13) |     -  |-  |  -  | -|- |-|
+| 3주차(23.03.20) |     -  |-  |  -  | -|- |-|
 
 <br />
 
@@ -108,3 +109,4 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 |:---:|---|---|---|
 |1주차(23.03.06 - 23.03.12)|BOJ<br/>PGS|[2304번 창고 다각형](https://www.acmicpc.net/problem/2304)<br/>[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)||
 |2주차(23.03.13 - 23.03.19)|PGS|[호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)||
+|3주차(23.03.20 - 23.03.26)|PGS|[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)||
