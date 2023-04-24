@@ -1,10 +1,10 @@
-package swea;
+package sea;
 
 import java.io.*;
 import java.util.*;
 import java.util.stream.IntStream;
 
-public class SWEA_4835 {
+public class SEA_4835 {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
